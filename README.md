@@ -1,25 +1,23 @@
-# ReduxSimpleStarter
+# Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is a simple web app that I made to aid my understanding of React and Redux.
 
-###Getting Started###
+Its main functionality is to allow users to search for city in the USA and view its weather data (for the next 5 days). The weather data is displayed visually in the form of graphs.
 
-There are two methods for getting started with this repo.
+###Usage###
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Requirements: 
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+1. Node.js
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Steps:
 
-```
-	> npm install
-	> npm start
-```
+1. Clone this project and extract it on your computer
+2. Open a terminal and change tho the project directory
+3. Enter the following commands:
+
+	```
+		> npm install
+		> npm start
+	```
+4. On your preferred web browser, open "http://localhost:3000
