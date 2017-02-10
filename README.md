@@ -4,9 +4,11 @@ This project is a simple web app that I made to aid my understanding of React an
 
 Its main functionality is to allow users to search for city in the USA and view its weather data (for the next 5 days). The weather data is displayed visually in the form of graphs.
 
+![Alt text](/screenshots/screenshot1.png?raw=true "Weather App")
+
 ###Usage###
 
-Requirements: 
+Requirements:
 
 1. Node.js
 
@@ -20,4 +22,4 @@ Steps:
 		> npm install
 		> npm start
 	```
-4. On your preferred web browser, open "http://localhost:3000
+4. On your preferred web browser, open "http://localhost:8080"
