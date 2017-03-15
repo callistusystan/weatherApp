@@ -6,7 +6,7 @@ Its main functionality is to allow users to search for city in the USA and view 
 
 ![Alt text](/screenshots/screenshot1.png?raw=true "Weather App")
 
-###Usage###
+### Usage ###
 
 Requirements:
 
